@@ -1,0 +1,41 @@
+header img{
+    width: 220px;
+    height: 36px;
+    margin-top: 60px;
+}
+
+.plans-container--slider{
+    height: 330px;
+    
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.header--title-container h1{
+    font-size: 3.4rem;
+    font-weight: bold;
+    line-height: 3rem;
+}
+.header--title-container p{
+    font-size: 1.7rem;
+    font-weight: 500;
+    margin-top: 35px;
+}
+
+.product-cards-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 930px;
+  margin: 0 auto;
+}
+.main-tables-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.bitcoin-img-container h2{
+    font-size: 3.2rem;
+}
